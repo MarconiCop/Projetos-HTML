@@ -1,0 +1,31 @@
+h1{
+       
+    text-align: center;
+    font-size: 48px;
+    color: #A3CDD9;             /* Em casos de provas e trabalhos #FFFFFF*/
+}
+
+a{
+    font-size: 24px;
+    text-decoration: none;
+    color:#FFFCE6;
+    border: 2px solid #F2CC39;
+    padding: 10px;
+    border-radius: 10px;
+    text-align: center;
+    background-color: #506AD4;
+
+}
+
+body{
+    text-align: center;
+}
+
+img {
+    alt: "Guarda Chuva";        /* Caso a imagem não apareça*/
+    width: 300px;               /* Pode usar porcentagem*/
+    height: 300px;
+    position: relative;
+    float: left;                /* Renderiza a partir da esquerda*/
+    left: 42%;   
+}
