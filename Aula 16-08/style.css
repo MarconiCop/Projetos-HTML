@@ -22,11 +22,11 @@
 }
 
 .baixo{
+    margin-top: 10px;
     width: 80%;
     height: auto;
     position: relative;
-    margin-left: 10%;
-    border: 1px soldid #000;
+    border: 1px solid #000;
 }
 
 
