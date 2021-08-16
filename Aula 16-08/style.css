@@ -1,34 +1,58 @@
+@import url('https://fonts.googleapis.com/css2?family=WindSong&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&display=swap');
 
-.topo h1{
-    color: blue;
-    text-shadow: 1px  1px #000; 
+.topo {
+	width: 49%;
+	height: 300px;
+	position: relative;
+	float: left;
+	background-color: #aaff00;
 }
 
-.topo{
-    width: 49%;
-    height: 300px;
-    border: 2px solid #000;
-    position: relative;
-    float:left;
-    background-color: green;
+.topo h1 {
+	text-align: center;
+	width: 90%;
+	margin-left: 5%;
+	font-family: 'Open Sans', sans-serif;
+	color: #555B6E;
 }
 
-#esquerda{
-    background-color: aqua;
+#esquerda {
+	background-color: #FFD6BA;
 }
 
-#direita{
-    background-color: blueviolet;
+#direita {
+	float: right;
+	right: 0px;
+	background-color: #89B0AE;
+	font-size: 14px;
 }
 
-.baixo{
-    margin-top: 10px;
-    width: 80%;
-    height: auto;
-    position: relative;
-    border: 1px solid #000;
+.baixo {
+	width: 80%;
+	height: auto;
+	position: relative;
+	float: left;
+	margin-left: 10%;
+	margin-top: 20px;
+	background-color: #555B6E;
 }
 
+.baixo h1 {
+	width: 70%;
+	margin-left: 15%;
+	text-align: center;
+	font-family: 'Open Sans', sans-serif;
+	color: #FAF9F9;
+}
+
+div{
+    transition: 1s;
+}
+
+div:hover{
+    background-color: #aa3344;
+}
 
 
 
