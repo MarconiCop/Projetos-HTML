@@ -21,10 +21,14 @@
     background-color: blueviolet;
 }
 
-h1{
-    text-align: center;
-    font-size: 48px;
-    color: #A3CDD9;             
+.baixo{
+    width: 80%;
+    height: auto;
+    position: relative;
+    margin-left: 10%;
+    border: 1px soldid #000;
 }
+
+
 
 
