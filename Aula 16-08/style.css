@@ -13,6 +13,14 @@
     background-color: green;
 }
 
+#esquerda{
+    background-color: aqua;
+}
+
+#direita{
+    background-color: blueviolet;
+}
+
 h1{
     text-align: center;
     font-size: 48px;
