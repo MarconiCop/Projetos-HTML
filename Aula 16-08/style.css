@@ -1,0 +1,22 @@
+
+.topo h1{
+    color: blue;
+    text-shadow: 1px  1px #000; 
+}
+
+.topo{
+    width: 49%;
+    height: 300px;
+    border: 2px solid #000;
+    position: relative;
+    float:left;
+    background-color: green;
+}
+
+h1{
+    text-align: center;
+    font-size: 48px;
+    color: #A3CDD9;             
+}
+
+
