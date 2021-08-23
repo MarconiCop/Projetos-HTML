@@ -1,0 +1,20 @@
+
+body{
+    margin: 0;
+}
+
+#header{
+    background-color: #72efdd !important;
+}
+
+.contents{
+    height: 400px;
+    margin-top: 10px;
+}
+
+.content{
+    height: 390px;
+    border: 1px solid #7400b8;
+    background-color: #80ffdb;
+    margin-top: 10px;
+}
