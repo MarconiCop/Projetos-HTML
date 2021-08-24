@@ -1,0 +1,111 @@
+@import url('https://fonts.googleapis.com/css2?family=Heebo:wght@700&display=swap');
+
+html{
+    font-size: 14px;
+}
+
+body{
+    
+    margin: 0;
+}
+
+#barra{
+    background-color    : #cddafd !important;
+}
+
+.conteudos{
+    position: relative;
+    float: left;
+    width: 100%;
+    height: 410px;
+    margin-top: 200px;
+    margin-bottom: 250px;
+    padding-left: 150px;
+}
+
+.conteudo{
+    
+    width: 250px;
+    margin-left: 10px;
+    position: relative;
+    float: left;
+    height: 450px;
+    border-radius: 10px;  
+    font-family: 'Heebo', sans-serif;
+    
+    color: white;
+    
+}
+
+.conteudo h2{
+    text-align: center;
+    position: relative;
+    float: left;
+    width: 100%;
+    margin-top: 220px;
+}
+
+.conteudo1{
+    background-color: #c1121f;
+}
+
+.conteudo2{
+    background-color: #007f5f;
+}
+.conteudo3{
+    background-color: #3a86ff;
+}
+
+.conteudo4{
+    background-color: #c44900;
+}
+.conteudo5{
+    background-color: #bc00dd;
+}
+.conteudo6{
+    background-color: #dbb42c;
+}
+
+.conteudo:hover{
+    
+    height: 470px;
+    transition: .4s;
+    
+}
+
+
+.conteudo img{
+    position: relative;
+    float: left;
+    width: 40%;
+    top: 150px;
+    left: 75px;
+    transition: .5s;
+    
+}
+
+.conteudo img:hover{
+    transform: rotate(360deg);
+    transition: .4s;
+}
+
+.conteudo a{
+    width: 100%;
+    height: 10px;
+    color: white;
+    font-weight: normal;
+    text-decoration: none;
+    font-size: 20px;
+    position: relative;
+    text-align: center;
+    right: 9px;  
+
+}
+
+.conteudo a:hover{
+    color: white;
+}
+
+
+
+
