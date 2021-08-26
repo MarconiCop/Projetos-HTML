@@ -13,3 +13,4 @@ var texto = "Isso é um texto em JavaScript!"
 alert("Bem vindo " + texto + "!!!");
 
 document.write("<h1>Escrevendo com document.write!<h1>");
+document.write("<h2>O resultado da soma é: " + soma + "</h2>");
