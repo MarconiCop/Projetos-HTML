@@ -1,0 +1,86 @@
+@import url("https://fonts.googleapis.com/css2?family=Heebo:wght@700&display=swap");
+
+html {
+  font-size: 14px;
+}
+
+body {
+  margin: 0;
+}
+
+#barra {
+  background-color: #3a86ff !important;
+}
+
+#menus {
+  color: white;
+}
+
+.salas {
+  position: relative;
+  float: left;
+  width: 50%;
+  height: 150px;
+  margin-top: 20px;
+  margin-left: 450px;
+  background-color: #3a86ff;
+  border-radius: 10px;
+}
+
+.salas h1 {
+  text-align: center;
+  position: relative;
+  float: left;
+  width: 100%;
+  margin-top: 10px;
+  color: white;
+  font-family: "Heebo", sans-serif;
+}
+
+.salas img {
+  position: relative;
+  float: left;
+  width: 8%;
+  left: 430px;
+  transition: 0.5s;
+}
+
+.conteudo {
+  margin-top: 220px;
+  width: 20%;
+  height: 440px;
+  border-radius: 10px;
+  margin-left: 730px;
+  background-color: #3a86ff;
+}
+
+.conteudo h2 {
+  text-align: center;
+  position: relative;
+  float: left;
+  width: 100%;
+  margin-top: 10px;
+  color: white;
+  font-family: "Heebo", sans-serif;
+}
+
+.conteudo a {
+  width: 100%;
+  height: 10px;
+  color: white;
+  font-weight: normal;
+  text-decoration: none;
+  font-size: 20px;
+  position: relative;
+  float: left;
+  text-align: center;
+  margin-top: 30px;
+}
+
+.conteudo a:hover{
+    color: white;
+}
+
+#titulo{
+    margin-top: 50px;
+}
