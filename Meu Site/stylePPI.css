@@ -9,7 +9,7 @@ body {
 }
 
 #barra {
-  background-color: #007f5f !important;
+  background-color: #c44900 !important;
 }
 
 #menus {
@@ -23,7 +23,7 @@ body {
   height: 150px;
   margin-top: 20px;
   margin-left: 450px;
-  background-color: #007f5f;
+  background-color: #c44900;
   border-radius: 10px;
 }
 
@@ -51,7 +51,7 @@ body {
   height: 440px;
   border-radius: 10px;
   margin-left: 730px;
-  background-color: #007f5f;
+  background-color: #c44900;
 }
 
 .conteudo h2 {
